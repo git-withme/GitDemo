@@ -1,5 +1,5 @@
 # GitDemo
-hise is my first git repository
+Thise is my first git repository
 <br>
 Author - Aniket (sppu)
 
